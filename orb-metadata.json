@@ -1,0 +1,138 @@
+{
+  "id": "the-beliefs-we-live-by",
+  "title": "The Beliefs We Live By",
+  "summary": "Separate observations from assumptions, examine a prediction, and try a more flexible response. Eight readings connect belief, evidence and small experiments without promising that thought controls everything.",
+  "collection": "Self-Development — Small Changes, Deeper Living",
+  "pointCount": 8,
+  "language": "en",
+  "canonical": "https://orbiversity.com/the-beliefs-we-live-by/",
+  "publicationStatus": "prepared",
+  "sourceRegister": [
+    {
+      "id": "belief",
+      "title": "Beyond Belief — Nir Eyal with Julie Li (2026)",
+      "url": "https://www.penguinrandomhouse.com/books/761993/beyond-belief-by-nir-eyal-with-julie-li/",
+      "publisher": "Portfolio",
+      "type": "Book / publisher overview",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "opposite",
+      "title": "Considering the opposite: a corrective strategy for social judgment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6527215/",
+      "publisher": "Lord, Lepper & Preston · Journal of Personality and Social Psychology, 1984",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "plans",
+      "title": "The interplay between goal intentions and implementation intentions",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15574664/",
+      "publisher": "Sheeran, Webb & Gollwitzer · Personality and Social Psychology Bulletin, 2005",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "growth",
+      "title": "A national experiment reveals where a growth mindset improves achievement",
+      "url": "https://www.nature.com/articles/s41586-019-1466-y",
+      "publisher": "Yeager et al. · Nature, 2019",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "affirm",
+      "title": "Positive Self-Statements: Power for Some, Peril for Others",
+      "url": "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/wintersemester2011-12/seminarthemenfelderdersozialpsychologie/04_wood_etal_selfstatements_psychscience2009.pdf",
+      "publisher": "Wood, Perunovic & Lee · Psychological Science, 2009",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "sdt",
+      "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+      "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+      "publisher": "Ryan & Deci · American Psychologist, 2000",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    }
+  ],
+  "sourcePointAssignments": [
+    {
+      "id": "the-beliefs-we-live-by-p01",
+      "sourceIds": [
+        "belief"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p02",
+      "sourceIds": [
+        "belief"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p03",
+      "sourceIds": [
+        "opposite"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p04",
+      "sourceIds": [
+        "opposite",
+        "plans"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p05",
+      "sourceIds": [
+        "growth"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p06",
+      "sourceIds": [
+        "affirm"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p07",
+      "sourceIds": [
+        "growth",
+        "sdt"
+      ]
+    },
+    {
+      "id": "the-beliefs-we-live-by-p08",
+      "sourceIds": [
+        "opposite",
+        "growth"
+      ]
+    }
+  ],
+  "authorship": "Original readings and exercises authored with Codex for Orbiversity. Books are credited starting points; no endorsement is implied.",
+  "bookStartingPoint": {
+    "id": "belief",
+    "title": "Beyond Belief — Nir Eyal with Julie Li (2026)",
+    "url": "https://www.penguinrandomhouse.com/books/761993/beyond-belief-by-nir-eyal-with-julie-li/",
+    "publisher": "Portfolio",
+    "type": "Book / publisher overview",
+    "accessedAt": "2026-09-19"
+  },
+  "checkedConnections": [],
+  "media": {
+    "included": [
+      {
+        "src": "https://orbiversity.com/the-beliefs-we-live-by/diagram.png",
+        "source": "https://orbiversity.com/the-beliefs-we-live-by/diagram.svg",
+        "title": "The Beliefs We Live By — a practice map",
+        "caption": "Original explanatory diagram for this ORB. A suggested reflection sequence, not research data or a book illustration.",
+        "credit": "Orbiversity · original diagram authored with Codex",
+        "node": null,
+        "generated": false
+      }
+    ],
+    "generated": [],
+    "note": "An original explanatory diagram; no audio or video recording was added."
+  }
+}
