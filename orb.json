@@ -423,5 +423,56 @@
       "generated": false
     }
   ],
-  "reaches": []
+  "reaches": [
+    {
+      "sourcePoint": {
+        "id": "the-beliefs-we-live-by-p04",
+        "title": "Test one small belief with a reversible action"
+      },
+      "target": {
+        "id": "from-intention-to-action",
+        "url": "https://orbiversity.com/from-intention-to-action/",
+        "topic": "From Intention to Action"
+      },
+      "relation": "association",
+      "reason": "A small test of a belief and a review of an action plan both need observations that are distinct from judgments.",
+      "evidence": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/6527215/",
+          "title": "Considering the opposite: a corrective strategy for social judgment"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15574664/",
+          "title": "The interplay between goal intentions and implementation intentions"
+        },
+        {
+          "url": "https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf",
+          "title": "Does Monitoring Goal Progress Promote Goal Attainment?"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "the-beliefs-we-live-by-p07",
+        "title": "Distinguish a belief from the barrier around it"
+      },
+      "target": {
+        "id": "connection-without-losing-yourself",
+        "url": "https://orbiversity.com/connection-without-losing-yourself/",
+        "topic": "Connection Without Losing Yourself"
+      },
+      "relation": "association",
+      "reason": "Some barriers call for support rather than a new belief. Explore how to ask for a specific form of help.",
+      "evidence": [
+        {
+          "url": "https://www.nature.com/articles/s41586-019-1466-y",
+          "title": "A national experiment reveals where a growth mindset improves achievement"
+        },
+        {
+          "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+          "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being"
+        }
+      ]
+    }
+  ]
 }
